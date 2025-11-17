@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=z-coding-dot" alt="z-coding-dot" /></a> </p>
 
-- 🔭 I’m currently working on [Online Store](https://github.com/Z-Coding-dot/Online-Store)
+- 🔭 I’m currently working on [SkillBridge](https://github.com/Z-Coding-dot/Skill-Bridge)
 
 - 🌱 I’m currently learning **React JS, Redux Toolkit, etc..**
 
