@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **React, Tailwind CSS, Bootstrap, etc..**
 
-- 📫 How to reach me **zcoding03@gamil.com**
+- 📫 How to reach me **parsakarimi776@gamil.com**
 
 - ⚡ Fun fact **I don't think I'll ever give up.**
 
