@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ziaulhaq Parsa karimi</h1>
 <h3 align="center">A passionate frontend developer from Astana</h3>
 
-<p align="left"> <img src="https://github.com/Z-Coding-dot/Z-Coding-dot" alt="z-coding-dot" /> </p>
+<p align="left"> <img src="https://avatars.githubusercontent.com/u/154730860?v=4" alt="z-coding-dot" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/Z-Coding-dot/Z-Coding-dot" alt="z-coding-dot" /></a> </p>
 
